@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/12/2018, 22:04:07
+    Author     : ykabh
+*/
+
+
+
+.button_1{
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height:170px;
+    background-size: cover;
+    width: 170px;
+    position: absolute;
+
+    top: 15px;
+    left: 10%;
+}
+.button_2{
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height:80px;
+    background-size: cover;
+    width: 80px;
+    position: absolute;
+
+    bottom: 180px;
+    right: 77px;
+}
+.button_3{
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height:80px;
+    background-size: cover;
+    width: 80px;
+    position: absolute;
+
+    bottom: 180px;
+    left: 34px;
+    
+}
+.button_4{
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height:80px;
+    background-size: cover;
+    width: 80px;
+    position: absolute;
+
+    bottom: 180px;
+    left: 75px;
+}
+
+.play_button {
+    position:absolute;
+    transition: .5s ease;
+    top: 90%;
+    left: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:60px;
+    background-size: cover;
+    width: 70px;
+}
+
+.button2-text{
+    position: absolute;
+    text-align: center; color: #fefefe; font-weight: normal;
+    bottom: 8px;
+    left: 14%;
+}
+.button3-text{
+
+    position: absolute;
+    text-align: center; color: #fefefe; font-weight: normal;
+    top: 190px;
+    right: 41%;
+}
+.button4-text{
+    position: absolute;
+    text-align: center; color: #fefefe; font-weight: normal;
+    bottom: 8px;
+    right: 3%;
+}
+h1{ background-color:black; color:white;font-size: 30px;font-family: inherit;text-align:center;} 

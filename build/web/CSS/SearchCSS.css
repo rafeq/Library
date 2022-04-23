@@ -1,0 +1,151 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/12/2018, 17:22:11
+    Author     : ykabh
+*/
+
+.bg,#search-bg {
+    background-image: url('https://images.wallpaperscraft.com/image/books_covers_library_114959_1280x720.jpg');
+    /*height: 100%;*/
+    background-size: cover;
+    background-position: center ;
+}
+
+
+
+#search-bg {
+    /* Absolutely position it, but stretch it to all four corners, then put it just behind #search's z-index */
+    position: absolute;
+    top: 75px;
+    right: 210px;
+    bottom: 175px;
+    left: 215px;
+    z-index: 99;
+
+    /* Pull the background 70px higher to the same place as #bg's */
+    background-position: center ;
+
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+
+
+
+
+.wrapper {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    height: 350px;
+    width: 900px;
+    position: relative;
+    z-index: 100;
+    padding: 20px;
+    background: rgb(34,34,34); /* for IE */
+    background: rgba(34,34,34,0.75);
+    left: 230px;
+    top: 60px;
+    border-radius: 20px;
+
+}
+.wrapper1 {
+    height: 350px;
+    width: 220px;
+    position: relative;
+    left: 125px;
+
+}
+
+.form-signin {
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 30px;
+
+}
+.form-signin-heading {
+    text-align: center; color: #fefefe; font-weight: normal;
+}
+
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+section {
+    position: relative;
+    border: 1px solid #000;
+    padding-top: 37px;
+    background: rgba(34,34,34,0.75);
+    width:402px;
+    border-radius: 15px; 
+    bottom: 440px;
+    left: 450px;
+}
+.container1 {
+    overflow-y: auto;
+    height: 250px;
+    width: 400px;
+}
+table {
+    border-spacing: 0;
+    width:100%;
+}
+td + td {
+    border-left:1px solid #000;
+}
+td, th {
+    border-bottom:1px solid #000;
+    background: #fff;
+    color: #000;
+    padding: 5px 16px;
+}
+th {
+    height: 0;
+    line-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: transparent;
+    border: none;
+    white-space: nowrap;
+}
+th div{
+    position: absolute;
+    background: transparent;
+    color: #fff;
+    padding: 9px 25px;
+    top: 0;
+    margin-left: -25px;
+    line-height: normal;
+    border-left: 1px solid rgba(34,34,34,0.75);
+}

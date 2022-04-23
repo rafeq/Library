@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Login</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='stylesheet' href='http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css'>
+        <link rel="stylesheet" type="text/css" href="style/index.css">
+    </head>
+    <body>
+        <div id="search-bg"></div>
+        <div class="wrapper">
+
+            <form class="aasd" method="POST" action="UserServlet"> 
+                <h2 class="form-signin-heading">Login</h2>
+                <input type="text" class="form-control" name="userName" placeholder="Username" autofocus="" >
+                <input type="password" class="form-control" name="password" placeholder="Password" >      
+                <label class="checkbox">
+                    <input type="checkbox" value="remember-me" id="rememberMe" name="rememberMe"> 
+                    <h6>Remember me</h6>
+                </label>
+                <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>   
+            </form>
+        </div>
+    </body>
+</html>

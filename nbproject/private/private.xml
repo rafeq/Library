@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Controller/UserServlet.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/CSS/MainPageCSS.css</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Model/Student.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/index.html</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Model/Book.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/Error_login.jsp</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/nbproject/build-impl.xml</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/ReturnBook.jsp</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Model/DBO.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Model/Borrow.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/BorrowBook.jsp</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/Error403.jsp</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Controller/ReturnServlet.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/CSS/SearchCSS.css</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Model/CopyBook.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/Search.jsp</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/CSS/LoanBookCSS.css</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/MainPage.jsp</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/web/CSS/style_Main.css</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Controller/SearchServlet.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Controller/BorrowServlet.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Controller/ErrorServlet.java</file>
+            <file>file:/Users/rafeqfiad/NetBeansProjects/HW44/src/java/Controller/LogoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
